@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+D:\Cal State LA\ACM\ACM Project\Chess Engine AI\.metadata\.plugins\org.eclipse.jdt.core
+675568289.index
+1865797976.index
+1860842360.index
